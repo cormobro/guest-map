@@ -9,6 +9,7 @@ body {
 }
 
 .map {
+  width: 63%;
   height: 100%;
 }
 
